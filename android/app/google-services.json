@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953377765297",
+    "project_id": "appteqsolutions",
+    "storage_bucket": "appteqsolutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953377765297:android:1533671fc2eb0fa923af90",
+        "android_client_info": {
+          "package_name": "com.example.appteq_solutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953377765297-er5cgu5e4gvg4bitv2kle5p88vie7vf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvRVWqc7HabDvRzbnYXGSHSW-AoOBDsno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953377765297-er5cgu5e4gvg4bitv2kle5p88vie7vf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
