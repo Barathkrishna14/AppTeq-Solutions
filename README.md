@@ -1,10 +1,12 @@
 # appteq_solutions
 
-A new Flutter project.
+A Project to Maintain Attendance in Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application to Maintain a Attendance For a Employee Working in a Office 
+This Project works By Fetching Their Geolocation to Make sure that they are in office.
+Here This Application Connects With FireBase Database
 
 A few resources to get you started if this is your first Flutter project:
 
