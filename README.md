@@ -1,8 +1,9 @@
 ## Appteq Solutions
 
 A Project to Maintain Attendance for Employee in Organizations
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Barathkrishna14/AppTeq-Solutions/blob/master/Login.jpg))
 
-## Getting Started
+## Flutter Project
 
 This project is a Flutter application to Maintain a Attendance For a Employee Working in a Office 
 This Project works By Fetching Their Geolocation to Make sure that they are in office.
