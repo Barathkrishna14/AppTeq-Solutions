@@ -1,19 +1,15 @@
 ## Appteq Solutions
 
 A Project to Maintain Attendance for Employee in Organizations
+
+## Screen Shots
 ![alt text](https://github.com/Barathkrishna14/AppTeq-Solutions/blob/master/College.jpg)
 
-## Flutter Project
+## Attendance Flutter Project
 
-This project is a Flutter application to Maintain a Attendance For a Employee Working in a Office 
-This Project works By Fetching Their Geolocation to Make sure that they are in office.
-Here This Application Connects With FireBase Database
+This project is a Flutter application to Maintain a Attendance For a Employee Working in a Organizations.  
+This Project works By Scanning Their Office Qr code and Fetching Their Geolocation to Make sure that they are in Organizations. 
+Here This Application Connects With FireBase Database to store the Details And Login time
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developed By 
+So far, this project has been developed  by Barath D.
