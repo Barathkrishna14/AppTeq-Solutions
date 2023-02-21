@@ -1,6 +1,6 @@
-# appteq_solutions
+## Appteq Solutions
 
-A Project to Maintain Attendance in Flutter
+A Project to Maintain Attendance for Employee in Organizations
 
 ## Getting Started
 
