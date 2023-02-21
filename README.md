@@ -1,7 +1,7 @@
 ## Appteq Solutions
 
 A Project to Maintain Attendance for Employee in Organizations
-![alt text](https://github.com/Barathkrishna14/AppTeq-Solutions/blob/master/Login.jpg)
+![alt text](https://github.com/Barathkrishna14/AppTeq-Solutions/blob/master/College.jpg)
 
 ## Flutter Project
 
